@@ -1,0 +1,148 @@
+votes,links,views,tags,answers,questions
+4467,2025282,924135,"android,android-layout,user-interface,dimension,units-of-measurement",35,"What is the difference between “px”, “dp”, “dip” and “sp” on Android?"
+2763,1554099,879834,"android,performance,android-emulator,qemu",79,Why is the Android emulator so slow? How can we speed up the Android emulator?
+2719,13375357,238536,"java,android,usermanager",11,Proper use cases for Android UserManager.isUserAGoat()?
+2548,1109022,1009255,"android,android-softkeyboard,android-keypad,android-input-method,soft-keyboard",58,Close/hide the Android Soft Keyboard
+1956,1555109,480576,"android,android-listview,android-edittext",43,Stop EditText from gaining focus at Activity startup
+1948,2785485,700824,"java,android,uniqueidentifier",37,Is there a unique Android device ID?
+1910,151777,565371,"android,android-activity,application-state",25,Saving Android Activity state using Save Instance State
+1636,2194808,247084,"android,eclipse,certificate",17,“Debug certificate expired” error in Eclipse Android plugins
+1590,6343166,842315,"android,networkonmainthread,thread-exceptions",42,How to fix android.os.NetworkOnMainThreadException?
+1537,101754,400214,"android,python,jython,ase,android-scripting",22,Is there a way to run Python on Android?
+1534,541966,488132,"android,image,listview,url,universal-image-loader",37,Lazy load of images in ListView
+1509,1016896,977394,"android,layout,screen,pixel,dimensions",31,Get screen dimensions in pixels
+1428,432037,861228,"android,text,center,textview",37,How do I center text horizontally and vertically in a TextView on Android?
+1256,3572463,437360,"android,android-context",28,What is 'Context' on Android?
+1123,5761960,228975,"android,android-layout",14,What is the difference between match_parent and fill_parent?
+1054,456211,328779,"android,rotation,android-activity",27,Activity restart on rotation Android
+1045,4382178,406728,"java,android,sdk,windows-7-x64,jdk6",45,Android SDK installation doesn't find JDK
+1009,1678122,221126,"java,android,eclipse,override,superclass",12,'Must Override a Superclass Method' Errors after importing a project into Eclipse
+960,18302603,358094,"android,android-studio,android-assets",13,Where do I place the 'assets' folder in Android Studio?
+952,3482742,401868,"android,android-layout",18,Gravity and layout_gravity on Android
+935,4535298,252283,"android,android-emulator,emulator",24,How do I rotate the Android emulator display? [duplicate]
+925,477572,523378,"android,image,bitmap,out-of-memory,android-bitmap",38,Strange out of memory issue while loading an image to a Bitmap object
+924,2033914,238914,android,37,Is quitting an application frowned upon?
+916,937313,378157,"android,listener,gesture-recognition",18,Fling gesture detection on grid layout
+895,885009,855841,"android,eclipse,compiler-errors,android-resources,android-sdk-tools",103,R cannot be resolved - Android error
+867,3593420,686794,"android,android-resources,decompiling,apk",11,Is there a way to get the source code from an APK file?
+848,2201917,557293,"android,url,android-intent,android-browser",24,How can I open a URL in Android's web browser from my application?
+843,2680827,471480,"android,dalvik,android-sdk-1.6",71,“Conversion to Dalvik format failed with error 1” on external JAR
+821,2091465,564481,"android,android-intent,android-activity,shared-memory",36,How do I pass data between Activities in Android application?
+810,513084,201313,"android,android-sqlite,android-database",13,Ship an application with a database
+801,16608135,583878,"android,gradle,android-studio,dependency-management",33,Android Studio: Add jar as library?
+791,3028306,392878,"java,android,download,android-asynctask",11,"Download a file with Android, and showing the progress in a ProgressDialog"
+780,2850573,334613,"android,memory-leaks,dialog",32,Activity has leaked window that was originally added
+748,16754643,217160,"android,android-studio,gradle,build-automation",20,What is Gradle in Android Studio?
+744,5369682,907475,"android,date,time",30,Get current time and date on Android
+738,4616095,323098,"android,android-emulator,android-manifest",19,How to get the build/version number of your Android application?
+724,11078487,163295,"android,xml,android-layout,android-context,android-tools-namespace",5,What's “tools:context” in Android layout files?
+703,2591036,620358,"android,android-layout,titlebar",33,How to hide the title bar for an Activity in XML with existing custom theme
+696,582185,405408,"android,orientation,android-manifest",27,Android - disable landscape mode?
+694,2298208,261614,"java,android,memory,memory-management",6,How do I discover memory usage of my application in Android?
+693,6495898,374760,"android,android-fragments,android-imageview",28,findViewById in Fragment
+692,15852122,545235,"android,colors,hex,transparency",10,Hex transparency in colors [duplicate]
+691,3035692,452035,"android,bitmap,wallpaper,android-drawable",14,How to convert a Drawable to a Bitmap?
+690,24885223,241636,"java,android,recyclerview",24,Why doesn't RecyclerView have onItemClickListener()?
+688,2734270,341807,"android,hyperlink,android-textview,clickable",29,How do I make links in a TextView clickable?
+687,4775603,293328,"android,timeout,install,apk",8,Android error: Failed to install *.apk on device *: timeout
+686,2002288,492614,"android,android-context",15,Static way to get 'Context' on Android?
+674,600207,314165,"android,android-service",23,How to check if a service is running on Android?
+673,2115758,874930,"android,android-dialog",16,How do I display an alert dialog on Android?
+670,16588064,533661,"android,actionbarsherlock,android-library,android-studio",29,How do I add a library project to Android Studio?
+655,5033012,274202,"android,textview,scale,android-textview,textwrapping",31,Auto Scale TextView Text to Fit within Bounds
+652,16804093,364726,"android,android-studio",34,Android Studio Rename Package
+651,2176922,309178,"android,android-activity,transparent",16,How do I create a transparent Activity on Android?
+645,601503,253218,"android,crash,stack-trace",29,How do I obtain crash-data from my Android application?
+644,3145089,257506,"android,geolocation",21,What is the simplest and most robust way to get the user's current location on Android?
+642,10407159,434022,"android,android-intent,android-activity,startactivityforresult",7,How to manage `startActivityForResult` on Android?
+642,2139134,461998,"android,android-intent,android-activity",30,How to send an object from one Android Activity to another using Intents?
+640,1521640,403635,"android,android-layout",18,Standard Android Button with a different color
+635,16615038,312743,"android,android-studio,ide,keyboard-shortcuts,auto-import",10,What is the shortcut to Auto import all in Android Studio?
+633,4893953,255425,"android,debugging,wifi,wireless,tethering",17,Run/install/debug Android applications over Wi-Fi?
+617,26355645,763400,"android,intel,avd,haxm",16,Error in launching AVD with AMD processor
+613,2604727,698848,"android,networking,tcp,debugging,adb",32,How can I connect to Android with ADB over TCP?
+601,21814825,457900,"android,android-layout,android-studio",32,You need to use a Theme.AppCompat theme (or descendant) with this activity
+601,32075498,396013,"android,android-studio,gradle",22,Error retrieving parent for item: No resource found that matches the given name after upgrading to AppCompat v23
+593,3875184,460306,"android,toast,ui-thread",15,Can't create handler inside thread that has not called Looper.prepare()
+585,449763,241299,"android,android-source",8,Where can I find Android source code online? [closed]
+582,1249973,380814,"java,android,reverse-engineering,decompiler,dex",15,decompiling DEX into Java sourcecode
+575,5049852,432704,"android,layout,draw",23,Android Drawing Separator/Divider Line in Layout?
+569,6147884,237072,"android,android-fragments,android-activity",31,onActivityResult is not being called in Fragment
+566,3480201,425803,"android,android-emulator,install,apk",24,How do you install an APK file in the Android emulator?
+564,4605527,438387,"android,pixel,resolution,dpi",24,Converting pixels to dp
+563,2493331,177065,"android,database,sqlite,sqlite3",9,What are the best practices for SQLite on Android?
+557,6200533,304251,"android,android-textview",18,Set TextView style (bold or italic)
+557,24437564,221659,"java,android,eclipse,adt",43,Update Eclipse with Android development tools v. 23
+550,13854425,131090,"android,security,proguard,reverse-engineering",28,How to avoid reverse engineering of an APK file?
+539,4300291,258277,"android,android-activity,android-service",8,Example: Communication between Activity and Service using Messaging
+535,708012,281624,"android,singleton,global-variables,state",17,How to declare global variables in Android?
+531,3004515,402155,"android,android-intent",10,Sending an Intent to browser to open specific URL [duplicate]
+527,5161951,317919,"android,multithreading",13,Android “Only the original thread that created a view hierarchy can touch its views.”
+527,2620444,168522,"android,dialog,android-alertdialog,android-dialog,android-dialogfragment",16,How to prevent a dialog from closing when a button is clicked
+526,3995825,256589,"android,android-layout,android-widget",11,What does android:layout_weight mean?
+523,20121883,523507,"android,google-play-services,genymotion",11,How to install Google Play Services in a Genymotion VM (with no drag and drop support)?
+522,1748977,390428,"android,scroll,textview,android-textview",21,Making TextView scrollable on Android
+520,6217378,163694,"android,android-edittext,keylistener",16,Place cursor at the end of text in EditText
+519,4233873,565539,"android,android-intent",11,How do I get extra data from intent on Android?
+518,2116162,361350,"android,html,xml-parsing,android-textview",15,How to display HTML in TextView?
+516,3624280,490903,"android,sharedpreferences",26,"How to use SharedPreferences in Android to store, fetch and edit values"
+516,2020088,340431,"java,android,android-intent,javamail",22,Sending Email in Android using JavaMail API without using the default/built-in app
+516,2386866,380003,"android,xml,user-interface,android-layout",17,How to align views at the bottom of the screen?
+515,1513485,625671,"android,geolocation,gps,location",17,How do I get the current GPS location programmatically in Android?
+513,20306091,112283,"android,android-fragments,android-activity",12,Dilemma: when to use Fragments vs Activities:
+512,15524280,180520,"android,multithreading,android-service,android-intentservice",11,Service vs IntentService
+510,10024739,186559,"android,android-fragments,android-viewpager",20,How to determine when Fragment becomes visible in ViewPager
+508,24618829,293332,"android,recyclerview,divider",33,How to add dividers and spaces between items in RecyclerView?
+507,16580171,311761,"android,android-studio",17,Code formatting shortcut in Android studio
+504,3496269,455754,"android,android-layout,textview,android-textview",13,How do I put a border around an Android textview?
+503,1560788,360304,"android,networking,asynchronous",44,How to check internet access on Android? InetAddress never times out
+501,2736389,422991,"java,android,object,android-intent",31,How to pass an object from one activity to another on Android
+488,23318109,216711,"java,android,java-8,android-gradle",19,Is it possible to use Java 8 for Android development?
+487,4238921,377818,"android,internet-connection,android-internet",6,Detect whether there is an Internet connection available on Android [duplicate]
+482,12128331,513765,"android,android-layout,android-textview,typeface",23,How to change fontFamily of TextView in Android
+482,5796611,255722,"android,android-alertdialog,android-context,builder",22,"Dialog throwing ""Unable to add window — token null is not for an application” with getApplication() as context"
+482,297586,371511,"java,android,web-services,soap,wsdl",26,How to call a SOAP web service on Android
+480,9245408,189893,"android,android-fragments",10,Best practice for instantiating a new Android Fragment
+473,31590714,159549,"android,android-resources,android-6.0-marshmallow,android-mnc",14,getColor(int id) deprecated on Android 6.0 Marshmallow (API 23)
+472,2378607,405811,"android,android-permissions",8,What permission do I need to access Internet from an android application?
+471,27078075,161125,"android,gradle,android-gradle",5,Gradle DSL method not found: 'runProguard'
+470,9671546,662461,"android,android-asynctask",14,AsyncTask Android example
+469,1529068,218491,"android,styles,textview",14,Is it possible to have multiple styles inside a TextView?
+466,29041027,219226,"android,android-drawable,android-resources,android-5.1.1-lollipop",8,Android getResources().getDrawable() deprecated API 22
+464,1111980,208173,"android,android-activity,android-dialog",26,How to handle screen orientation change when progress dialog and background thread active?
+460,4619899,188662,"android,user-interface,view,padding,margin",12,Difference between a View's Padding and Margin
+458,21329250,215308,"android,ios,facebook,facebook-graph-api",17,The developers of this app have not set up this app properly for Facebook Login?
+455,7263291,263139,"android,android-viewpager",34,ViewPager PagerAdapter not updating the View
+455,4486034,344515,"android,android-activity,view",6,Get root view from current activity
+453,3144940,333042,"android,android-emulator,android-widget",9,Set ImageView width and height programmatically?
+443,23353173,205734,"java,android",13,Unfortunately MyApp has stopped. How can I solve this?
+436,1532876,441437,"android,image,text,button",13,Android: combining text & image on a Button or ImageButton
+434,3285412,315317,"android,android-edittext,maxlength",12,Limit text length of EditText in Android
+433,3072173,343634,"java,android,handler,delay",16,How to call a method after a delay in Android
+429,16902716,167993,"android,networking,retrofit,android-networking",10,"Comparison of Android networking libraries: OkHTTP, Retrofit, and Volley [closed]"
+427,17054000,640989,"android,android-studio,r.java-file",56,“cannot resolve symbol R” in Android Studio
+424,17134522,38877,"c#,java,android,xamarin,dot42",4,Does anyone have benchmarks (code & results) comparing performance of Android apps written in Xamarin C# and Java?
+423,867518,386651,"android,android-spinner",32,How to make an Android Spinner with initial text “Select One”
+420,2197741,313396,"android,email",16,How can I send emails from my Android application?
+418,4709137,292515,"android,installation,android-sdcard",31,Solution to INSTALL_FAILED_INSUFFICIENT_STORAGE error on Android [closed]
+417,4186021,521137,"android,android-intent,android-activity,android-button,android-lifecycle",15,How to start new activity on button click
+416,26245139,185018,"android,user-interface,recyclerview",10,How to create RecyclerView with multiple view type?
+414,2695646,172333,"xml,android,user-interface",6,Declaring a custom android UI element using XML
+414,7951730,188854,"android,design-patterns,android-fragments,android-viewpager",10,ViewPager and fragments — what's the right way to store fragment's state?
+410,16581752,616575,"android,android-studio",26,Android Studio - How to Change Android SDK Path
+409,3166501,222095,"android,dpi,screen-density",15,getting the screen density programmatically in android?
+407,4212320,205257,"android,localization",15,Get the current language in device
+404,4600891,509208,"android,eclipse,android-emulator,apk,android-install-apk",12,How to build an APK file in Eclipse?
+404,2833057,87014,"android,listview",11,Background ListView becomes black when scrolling
+402,2394935,285367,"android,android-layout,fonts",15,Can I underline text in an android layout?
+402,2925054,193779,"java,android,design-patterns,model-view-controller",20,MVC pattern on Android
+400,2150078,199043,"android,visibility,android-softkeyboard",32,How to check visibility of software keyboard in Android?
+399,2471935,403355,"android,bitmap,imageview",24,How to load an ImageView by URL in Android? [closed]
+398,16775197,191258,"android,gradle,android-studio,build.gradle",24,Building and running app via Gradle and Android Studio is slower than via Eclipse
+397,4568267,182894,"android,eclipse",7,Android Min SDK Version vs. Target SDK Version
+395,16619667,104450,"android,android-studio,documentation",11,View method information in Android Studio
+394,11285961,461152,"android,transparency,android-textview",10,How to make a background 20% transparent on Android
+394,531427,150513,"android,user-interface,android-preferences",27,How do I display the current value of an Android Preference in the Preference summary?
+386,987072,253854,"android,android-context",9,Using Application context everywhere?
+385,2868047,300597,"android,fullscreen,android-fullscreen",17,Fullscreen Activity in Android?
+382,4602902,673953,"android,colors,textview",29,How to set the text color of TextView in code?

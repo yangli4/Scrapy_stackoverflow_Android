@@ -1,0 +1,2 @@
+scrapy crawl stackoverflow -s JOBDIR=stackoverflow/jobs -o stackoverflow.csv
+
